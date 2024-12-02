@@ -4,5 +4,4 @@ document.getElementById('target').innerHTML = `
     <li>Third item</li>
 `;
 
-
 document.getElementById('target').classList.add('my-list');
